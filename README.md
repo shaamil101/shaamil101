@@ -6,9 +6,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <h2 align="center">
-    I'm a freshman at Dartmouth College. 
-    I'm also a Venture Partner at Contrary Capital and founder of Diginoor.
+    I'm a freshman at Dartmouth College studying Computer Science and Econ. 
+  
   </h2>
+   <h2 align="center">
+    I'm also a Venture Partner at Contrary Capital and founder of Diginoor.
+   </h2>
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shaamilkarim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,5 +24,13 @@
   </a>
   <div>
   <img src="https://komarev.com/ghpvc/?username=shaamil101&style=flat-square&color=blue" alt=""/>
-  </div>
-</div>
+  </div></div>
+  
+
+ <div>
+
+- :seedling: As a Venture Partner at Contrary Capital, we invest upto 2 million in early-stage startups (my earlier startup, Diginoor, raised $1 mn from Contrary!)
+- :telescope: I'm passionate about building new tech and startups
+- 🚣: In my free time, I row, play Dartmouth pong, and follow :soccer: 
+
+- :mailbox:How to reach me: Any of the above linked social media profiles </div>
