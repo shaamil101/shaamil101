@@ -31,6 +31,6 @@
 
 - :seedling: As a Venture Partner at Contrary Capital, we invest upto 2 million in early-stage startups (my earlier startup, Diginoor, raised $1 mn from Contrary!)
 - :telescope: I'm passionate about building new tech and startups
-- 🚣: In my free time, I row, play Dartmouth pong, and follow :soccer: 
+- 🚣: In my free time, I row for Dartmouth College, play Dartmouth pong, and follow :soccer: 
 
 - :mailbox:How to reach me: Any of the above linked social media profiles </div>
