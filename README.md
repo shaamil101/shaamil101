@@ -29,7 +29,7 @@
 
  <div>
 
-- :seedling: As a Venture Partner at Contrary Capital, we invest upto 2 million in early-stage startups (my earlier startup, Diginoor, raised $1 mn from Contrary!)
+- :seedling: As a Venture Partner at Contrary Capital, I invest upto 2 million in early-stage startups (my earlier startup, Diginoor, raised $1 mn from Contrary!)
 - :telescope: I'm passionate about building new tech and startups
 - 🚣: In my free time, I row for Dartmouth College, play Dartmouth pong, and follow :soccer: 
 
