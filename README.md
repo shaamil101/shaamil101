@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <h2 align="center">
-    I'm a sophomore at Dartmouth College majoring in Computer Science, Econ and Math. 
+    I'm a junior at Dartmouth College majoring in Computer Science, Econ and Math. 
   
   </h2>
    <h2 align="center">
